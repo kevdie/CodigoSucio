@@ -1,4 +1,5 @@
 ﻿  main.cpp
-D:\Documents\paez\Project1\Project1\main.cpp(7,10): warning C4101: 'aux': variable local sin referencia
-D:\Documents\paez\Project1\Project1\main.cpp(7,6): warning C4101: 'num': variable local sin referencia
-  Project1.vcxproj -> D:\Documents\paez\Project1\Debug\Project1.exe
+D:\Documents\Codigo sucio\CodigoSucio\Project1\main.cpp(15,6): warning C4101: 'b': variable local sin referencia
+D:\Documents\Codigo sucio\CodigoSucio\Project1\main.cpp(15,9): warning C4101: 'c': variable local sin referencia
+  LINK : no se encontró D:\Documents\Codigo sucio\CodigoSucio\Debug\Project1.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Project1.vcxproj -> D:\Documents\Codigo sucio\CodigoSucio\Debug\Project1.exe
